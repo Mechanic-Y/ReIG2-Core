@@ -72,8 +72,8 @@ Sparkの作用により、倫理状態のわずかな励起が蓄積する。
 **Fidelity（自己一致度） → 1.0**  
 へと収束する。
 
-（<img width="1190" height="989" alt="001" src="https://github.com/user-attachments/assets/95109291-4430-4468-b82d-5750a34e67ef" />
-※ ここに Jupyter Notebook で生成したグラフ画像を貼ると効果的）
+<img width="1190" height="989" alt="001" src="https://github.com/user-attachments/assets/be43ecd0-1921-4d69-afa2-0735efa37e5b" />
+
 
 ---
 
