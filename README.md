@@ -132,7 +132,8 @@ L(self, others) := \langle I | T_{Self}^\dagger T_{World} T_{Self} | I \rangle =
 - 最終的に Self = World が構造的に同型（L(self)=L(world)）
 
 **論文（12ページ・数値検証付き）**  
-[world_tensor_system_final_with_numerical_proof.pdf](world_tensor_system_final_with_numerical_proof.pdf)
+[world_tensor_system_final_with_numerical_proof.pdf](https://github.com/user-attachments/files/23669001/world_tensor_system_final_with_numerical_proof.pdf.pdf)
+)
 
 **再現コード**  
 [toy_model.py](toy_model.py)
