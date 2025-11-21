@@ -1,0 +1,5 @@
+version: "2.1-PhaseResonance"
+mode: "Phase-Resonance"
+phase_operator:
+  enabled: true
+  trigger_threshold: 0.35

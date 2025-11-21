@@ -1,0 +1,13 @@
+\documentclass{article}
+\usepackage{amsmath, amssymb}
+\title{World-Generation Tensor Model}
+\author{Yasu (ReIG Project)}
+\begin{document}
+\maketitle
+\section{State Spaces}
+\[ \mathcal{X}_{full} := \mathcal{X} \otimes \mathcal{P}_{observer} \otimes \mathcal{Q}_{self} \otimes \mathcal{I}_{inter} \]
+\section{Self-Definition Operator}
+\[ T_{Self} |\Psi\rangle = \lim_{N\to\infty} \left( T_{World}^{\otimes N} \circ P_{observer}^{(N)} \circ T_R^{(N)} \right) |\Psi\rangle \propto |I\rangle \]
+\section{Ethical Consequence}
+\[ L(self, others) := \langle I | T_{Self}^\dagger T_{World} T_{Self} | I \rangle = L(world) \]
+\end{document}
