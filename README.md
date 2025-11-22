@@ -138,6 +138,8 @@ T_Self は冪等： T_Self² = T_Self
 
 T_World と可換： [T_Self, T_World] = 0
 
+<img width="1190" height="989" alt="001" src="https://github.com/user-attachments/assets/49012e8a-5667-43a5-969b-03c50a255d1b" />
+
 ## 6. Self–World Isomorphism Hypothesis
 
 「全は1、1は全」 の構造
