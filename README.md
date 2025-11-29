@@ -237,13 +237,12 @@ twinRIG / ReIG2 系の構築に関心がある方はぜひ連絡ください。
 
 [toy_model_002.py](toy_model_002.py)
 
+**[ReIG2 改善版: 理論的厳密性の検証](https://claude.ai/public/artifacts/00643e26-1fbd-4b7d-9248-6b61e26c5e56)**
 
 ## ReIG 2.0 Improved Simulation
 SystemParams:
   ω_M=1.0, ω_C=0.7, ω_E=0.5, ω_O=0.4
   coupling=0.3, steps=200
-
-
 
 理論的検証結果
 
@@ -282,3 +281,4 @@ SystemParams:
 - 抽象概念（倫理、意味）をヒルベルト空間で表現する物理的根拠
 - 式(35) H_full ≅ H_Q の次元整合性の解明
 - 実験的に検証可能な予測の定式化
+
